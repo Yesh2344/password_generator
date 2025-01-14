@@ -2,7 +2,7 @@
 
 A sleek and feature-rich password generator built with Python and PyQt6. This application provides a user-friendly interface for generating secure passwords with customizable options.
 
-![Modern Password Generator Screenshot]([https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.png](https://github.com/Yesh2344/password_generator/blob/main/uploaded.png))
+![Modern Password Generator Screenshot](https://github.com/Yesh2344/password_generator/blob/main/uploaded.png))
 
 ## Features
 
