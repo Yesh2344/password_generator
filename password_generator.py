@@ -247,6 +247,7 @@ class PasswordGenerator(QMainWindow):
                 QPushButton:hover {
                     background-color: #45a049;
                 }
+# Added comment
                 QSlider::groove:horizontal {
                     height: 8px;
                     background: #ddd;
