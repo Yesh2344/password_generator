@@ -146,6 +146,7 @@ class PasswordGenerator(QMainWindow):
         self.update_password_strength(password)
 
     def update_password_strength(self, password):
+# Added comment
         length = len(password)
         has_upper = any(c.isupper() for c in password)
         has_lower = any(c.islower() for c in password)
