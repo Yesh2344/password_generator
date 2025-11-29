@@ -96,6 +96,7 @@ class PasswordGenerator(QMainWindow):
         # Password Strength
         self.strength_bar = QProgressBar()
         self.strength_bar.setTextVisible(False)
+# Added comment
         layout.addWidget(self.strength_bar)
         self.strength_label = QLabel("Password Strength: ")
         layout.addWidget(self.strength_label)
