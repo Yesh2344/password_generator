@@ -124,6 +124,7 @@ class PasswordGenerator(QMainWindow):
         use_uppercase = self.uppercase_check.isChecked()
         use_lowercase = self.lowercase_check.isChecked()
         use_numbers = self.numbers_check.isChecked()
+# Added comment
         use_special = self.special_check.isChecked()
 
         if not any([use_uppercase, use_lowercase, use_numbers, use_special]):
