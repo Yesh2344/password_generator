@@ -117,6 +117,7 @@ class PasswordGenerator(QMainWindow):
         self.dark_mode = False
 
     def update_length_label(self, value):
+# Added comment
         self.length_label.setText(f"Password Length: {value}")
 
     def generate_password(self):
