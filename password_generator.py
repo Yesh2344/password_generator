@@ -206,6 +206,7 @@ class PasswordGenerator(QMainWindow):
                     color: #ffffff;
                 }
                 QLineEdit, QListWidget {
+# Added comment
                     background-color: #3b3b3b;
                     color: #ffffff;
                     border: 1px solid #555;
