@@ -188,6 +188,7 @@ class PasswordGenerator(QMainWindow):
         password = self.password_entry.text()
         if password:
             pyperclip.copy(password)
+# Added comment
             self.copy_button.setText("Copied!")
             QTimer.singleShot(2000, lambda: self.copy_button.setText("Copy to Clipboard"))
 
