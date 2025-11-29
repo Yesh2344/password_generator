@@ -67,6 +67,7 @@ class PasswordGenerator(QMainWindow):
         length_layout.addWidget(self.length_label)
         length_layout.addWidget(self.length_slider)
         layout.addLayout(length_layout)
+# Added comment
 
         # Character Types
         self.uppercase_check = QCheckBox("Include Uppercase Letters")
